@@ -21,7 +21,7 @@ Download `ScreenRotator.exe` from [Releases](../../releases)
 ```bash
 git clone https://github.com/yourusername/screen-rotator.git
 cd screen-rotator
-pip install -r requirements_build.txt
+pip install -r requirements.txt
 python screen_rotator.py
 ```
 
