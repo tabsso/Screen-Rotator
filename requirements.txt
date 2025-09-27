@@ -1,0 +1,5 @@
+keyboard
+rotate-screen
+pystray
+Pillow
+pyinstaller
